@@ -1,0 +1,11 @@
+#mainText {
+	text-align: center;
+	visibility: hidden;
+}
+button {
+	display: block;
+	margin: 20px auto;
+}
+body {
+	background-color: black;
+}
